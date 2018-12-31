@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1600425798 source:c:\users\aslipc\desktop\projectb\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<time.h>
+	<ctime>
+	"md5.h"
+	<string>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	<mysql.h>
+	<stdlib.h>
+	"passwordInput.h"
+
+1526456347 c:\users\aslipc\desktop\projectb\passwordinput.h
+
+1526553389 c:\users\aslipc\desktop\projectb\md5.h
+	<stdio.h>
+	<string.h>
+
+1526627396 source:c:\users\aslipc\desktop\projectb\resources.rc
+
